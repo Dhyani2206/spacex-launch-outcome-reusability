@@ -1,0 +1,8 @@
+Model,Accuracy,AUC
+LightGBM,0.96875,0.96875
+XGBoost,0.953125,0.953125
+AdaBoost,0.953125,0.953125
+Decision Tree,0.9375,0.9375
+Logistic Regression,0.8125,0.8125
+Logistic Regression,0.8125,0.8125
+Ridge Classifier,0.671875,0.671875
